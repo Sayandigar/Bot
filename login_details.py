@@ -1,7 +1,7 @@
-email = 'sayandigar4@gmail.com'
-epass = 'minimilitia'
+email = 'Your email'
+epass = 'your email password'
 
-fbusername = 'sayandigar@gmail.com'
-fbpassword = 'digarsayan'
+fbusername = 'your fb username'
+fbpassword = 'your fb password'
 
-number = '9509445647'
+number = 'your number'
